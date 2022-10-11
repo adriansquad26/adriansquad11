@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Pweb Tabel</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<div>
+<h1>TABEL TEMANL</h1>
+<p>Saya Raihan Rizqia, NIM: 43210034</p>
+<img src="RAIHAN.jpg">
+<button onclick="alert('hello world javascript')"> Hello javascript</button>
+<button><a href="https://raihanrz09-dev.github.io/Pweb03"> Pweb03</a></button>
+<button><a href="https://raihanrz09-dev.github.io/tabel css"> Pweb03 html table css</a></button>
+</div>
+</body>
+</html>
